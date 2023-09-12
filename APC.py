@@ -11,7 +11,7 @@ cnx = mysql.connector.connect(
 )
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 messages=[]
 def chatbot(input):
